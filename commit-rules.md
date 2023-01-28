@@ -14,8 +14,7 @@ Committing often keeps your commits small and, again, helps you commit only rela
 ### Don't Commit Half-Done Work
 
 You should only commit code when a logical component is completed.
-Split a feature‘s implementation into logical chunks that can be completed quickly so that you can commit often. If you‘re tempted to commit just because you need a clean working copy (to check out a branch, pull in changes, etc.) consider using Git‘s «Stash» feature instead.
-
+Split a feature's implementation into logical chunks that can be completed quickly so that you can commit often. If you‘re tempted to commit just because you need a clean working copy (to check out a branch, pull in changes, etc.) consider using Git‘s «Stash» feature instead.
 
 ### Test Your Code Before You Commit
 
